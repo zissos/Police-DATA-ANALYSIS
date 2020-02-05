@@ -12,9 +12,9 @@ My purpose to create this mini-project was to imporove my skills in python and i
 4 VIZUALIZE DATA
 
 ## Useful Insights
- -Moving Violation for each gender 
- -For each Gender and violation find mean age
- -"Violation" regarded to "search_type 
- -Stop place and Nation 
- -Gender and Nation drives
- -Police station and the mean age of violation
+ - Moving Violation for each gender 
+ - For each Gender and violation find mean age
+ - "Violation" regarded to "search_type 
+ - Stop place and Nation 
+ - Gender and Nation drives
+ - Police station and the mean age of violation
