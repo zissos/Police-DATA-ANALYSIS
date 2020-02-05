@@ -6,12 +6,12 @@ The [dataset](https://openpolicing.stanford.edu/data/) related to police stops i
 My purpose to create this mini-project was to imporove my skills in python and in data science(**vizualization ,cleansing data**)
 
 ## INDEX
-1 IMPORT DATA
-2 CLEAN AND ORGANAZE DATA
-3 MANIPULATE DATA
-4 VIZUALIZE DATA
+ - IMPORT DATA
+ - CLEAN AND ORGANAZE DATA
+ - MANIPULATE DATA
+ - VIZUALIZE DATA
 
-## Useful Insights
+## Useful Insights about 
  - Moving Violation for each gender 
  - For each Gender and violation find mean age
  - "Violation" regarded to "search_type 
